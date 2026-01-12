@@ -22,41 +22,41 @@ Completed the **NTI Big Data Engineering Scholarship**, gaining hands-on experie
 
 ### 💻 Programming & Querying
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge)
-![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge\&logo=csharp)
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-darkblue)
+![CSharp](https://img.shields.io/badge/C%23-purple)
 
 ### ⚙ Big Data & Streaming
 
-![Apache Spark](https://img.shields.io/badge/Spark-orange?style=for-the-badge\&logo=apachespark)
-![Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge\&logo=apachehadoop)
-![Hive](https://img.shields.io/badge/Hive-brown?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge\&logo=apachekafka)
-![Flink](https://img.shields.io/badge/Flink-red?style=for-the-badge\&logo=apacheflink)
+![Apache Spark](https://img.shields.io/badge/Spark-orange)
+![Hadoop](https://img.shields.io/badge/Hadoop-yellow)
+![Hive](https://img.shields.io/badge/Hive-brown)
+![Kafka](https://img.shields.io/badge/Kafka-black)
+![Flink](https://img.shields.io/badge/Flink-red)
 
 ### 🔄 ETL & Orchestration
 
-![Airflow](https://img.shields.io/badge/Airflow-blue?style=for-the-badge\&logo=apacheairflow)
-![Sqoop](https://img.shields.io/badge/Sqoop-darkgreen?style=for-the-badge)
-![Flume](https://img.shields.io/badge/Flume-lightgrey?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Airflow-blue)
+![Sqoop](https://img.shields.io/badge/Sqoop-darkgreen)
+![Flume](https://img.shields.io/badge/Flume-lightgrey)
 
 ### 🗄 Databases
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-yellow?style=for-the-badge)
-![HBase](https://img.shields.io/badge/HBase-darkred?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-yellow)
+![HBase](https://img.shields.io/badge/HBase-darkred)
 
 ### 📊 Analytics & Visualization
 
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge\&logo=powerbi)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge\&logo=pandas)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-purple)
 
 ### ☁ Cloud & Tools
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![AWS](https://img.shields.io/badge/AWS-orange)
+![Git](https://img.shields.io/badge/Git-black)
+![GitHub](https://img.shields.io/badge/GitHub-black)
 
 ---
 
@@ -64,9 +64,9 @@ Completed the **NTI Big Data Engineering Scholarship**, gaining hands-on experie
 
 ### 🏥 Clinic Data Integration & Analytics Dashboard
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge\&logo=powerbi)
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-darkblue)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
 
 End-to-end data engineering solution integrating clinic data from multiple sources.
 
@@ -82,9 +82,9 @@ End-to-end data engineering solution integrating clinic data from multiple sourc
 
 ### 💰 Salary Prediction (Machine Learning)
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge\&logo=pandas)
+![Python](https://img.shields.io/badge/Python-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+![Pandas](https://img.shields.io/badge/Pandas-purple)
 
 * Built regression models to predict employee salaries
 * Performed data preprocessing and model evaluation
@@ -95,9 +95,9 @@ End-to-end data engineering solution integrating clinic data from multiple sourc
 ---
 ## Iris Classification (Machine Learning)
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge\&logo=pandas)
+![Python](https://img.shields.io/badge/Python-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+![Pandas](https://img.shields.io/badge/Pandas-purple)
 ![Numpy](https://img.shields.io/badge/Numpy-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-yellow)
@@ -112,9 +112,9 @@ End-to-end data engineering solution integrating clinic data from multiple sourc
 
 ### 🧴 Velora – AI Skincare Diagnosis & E-commerce Platform (Graduation Project)
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-purple?style=for-the-badge\&logo=dotnet)
-![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-blue?style=for-the-badge\&logo=stripe)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-purple)
+![SQL Server](https://img.shields.io/badge/SQL_Server-red)
+![Stripe](https://img.shields.io/badge/Stripe-blue)
 
 Graduation project focused on backend systems and ML integration.
 
