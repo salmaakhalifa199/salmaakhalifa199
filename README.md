@@ -57,7 +57,6 @@ Completed the **NTI Big Data Engineering Scholarship**, gaining hands-on experie
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 
 ---
 
