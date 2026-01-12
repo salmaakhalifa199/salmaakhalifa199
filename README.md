@@ -74,20 +74,9 @@ End-to-end data engineering solution integrating clinic data from multiple sourc
 * Designed efficient data models for analytics
 * Delivered interactive dashboards using Power BI
 
-🔗 GitHub: Clinic Data Integration Project
-
+ 🔗[GitHub](https://github.com/salmaakhalifa199/Clinic-Data-Integration-Analytics-Dashboard.git) 
+ 
 ---
-
-### 🧴 Velora – AI Skincare Diagnosis & E-commerce Platform
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-purple?style=for-the-badge\&logo=dotnet)
-![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-blue?style=for-the-badge\&logo=stripe)
-
-Graduation project focused on backend systems and ML integration.
-
-* Designed REST APIs and integrated ML predictions
-* Implemented secure payments and role-based access
 
 ---
 
@@ -100,8 +89,10 @@ Graduation project focused on backend systems and ML integration.
 * Built regression models to predict employee salaries
 * Performed data preprocessing and model evaluation
 
+  🔗[GitHub](https://github.com/salmaakhalifa199/Salary_Prediction.git)
 ---
 
+---
 ## Iris Classification (Machine Learning)
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
@@ -113,6 +104,24 @@ Graduation project focused on backend systems and ML integration.
 
 * Built classfication models to classifies Iris flowers using K-Nearest Neighbors (KNN)
 * Performs detailed visualization and evaluation.
+
+  🔗[GitHub](https://github.com/salmaakhalifa199/Iris_Classification.git)
+---
+
+---
+
+### 🧴 Velora – AI Skincare Diagnosis & E-commerce Platform (Graduation Project)
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-purple?style=for-the-badge\&logo=dotnet)
+![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-blue?style=for-the-badge\&logo=stripe)
+
+Graduation project focused on backend systems and ML integration.
+
+* Designed REST APIs and integrated ML predictions
+* Implemented secure payments and role-based access
+
+  🔗[GitHub](https://github.com/salmaakhalifa199/velora.git)
 ---
 
 ## 🎓 Education
