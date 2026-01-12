@@ -1,10 +1,47 @@
-<h1 align="center">Hi 👋, I'm Salma Sherif</h1>
-<h3 align="center">Data Engineer</h3>
+<h1 align="center">Hi, I'm Salma Sherif 👋</h1>
+<h3 align="center">Big Data Engineer | ETL Pipelines | Spark | Cloud</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salma sherif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma sherif" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🧠 About Me
+I’m a Computer Science graduate with a strong focus on **Data Engineering** and building scalable, data-driven systems.
+
+I have hands-on experience designing **ETL pipelines**, integrating data from multiple sources, and transforming raw data into analytics-ready datasets using modern Big Data tools.
+
+Currently enrolled in the **NTI Big Data Engineering Scholarship**, where I work with distributed systems, data pipelines, and cloud technologies (AWS).
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Data Engineering & Big Data
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Spark-orange?style=for-the-badge&logo=apachespark)
+![Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge&logo=apachehadoop)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+![Airflow](https://img.shields.io/badge/Airflow-blue?style=for-the-badge&logo=apacheairflow)
+
+### ☁ Cloud & Databases
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
+
+### 📊 Analytics & Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+
+---
+
+## 📂 Featured Projects
+- 🏥 **Clinic Data Integration & Analytics Dashboard**
+- 💰 **Salary Prediction (ML)**
+- 🌸 **Iris Classification**
+- 🧴 **Velora – AI Skincare & E-commerce Platform**
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: [linkedin.com/in/salma-sherif](https://linkedin.com/in/salma-sherif-906240319)
+- 🐙 GitHub: [github.com/salmaakhalifa199](https://github.com/salmaakhalifa199)
+- 📧 Email: salmakhalifa06991@gmail.com
