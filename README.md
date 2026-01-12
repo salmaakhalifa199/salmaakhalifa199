@@ -102,6 +102,17 @@ Graduation project focused on backend systems and ML integration.
 
 ---
 
+## Iris Classification (Machine Learning)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge\&logo=pandas)
+![Numpy](https://img.shields.io/badge/Numpy-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-yellow)
+
+* Built classfication models to classifies Iris flowers using K-Nearest Neighbors (KNN)
+* Performs detailed visualization and evaluation.
 ---
 
 ## 🎓 Education
@@ -111,15 +122,6 @@ Hands-on training in Big Data tools, ETL pipelines, AWS fundamentals, and analyt
 
 **B.Sc. in Computer Science** – Helwan University
 GPA: 3.5/4 (Excellent with Honors)
-
----
-
-## 📫 Contact
-
-📧 Email: [salmakhalifa06991@gmail.com](mailto:salmakhalifa06991@gmail.com)
-💼 LinkedIn: linkedin.com/in/salma-sherif-906240319
-🐙 GitHub: github.com/salmaakhalifa199
-
 ---
 
 *Available for internships and junior-level Data Engineering roles.*
