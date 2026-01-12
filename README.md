@@ -103,24 +103,6 @@ Graduation project focused on backend systems and ML integration.
 
 ---
 
-### 🧴 Velora – AI Skincare Diagnosis & E-commerce Platform
-
-Graduation project focused on backend systems and ML integration.
-
-* Designed REST APIs and integrated ML predictions
-* Implemented secure payments and role-based access
-
-**Tech:** ASP.NET Core, SQL Server, ML Integration
-
----
-
-### 💰 Salary Prediction (Machine Learning)
-
-* Built regression models to predict employee salaries
-* Performed data preprocessing and model evaluation
-
-**Tech:** Python, Pandas, Scikit-learn
-
 ---
 
 ## 🎓 Education
