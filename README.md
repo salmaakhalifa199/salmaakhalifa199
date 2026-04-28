@@ -3,20 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6D2B3D,C9184A,FF758F&height=160&text=Salma%20Sherif&fontSize=55&fontColor=FFE5EC&fontAlignY=55&desc=Data%20Engineer&descAlignY=78&descSize=16&descFontColor=FFCCD5"/>
 </div>
 <br/>
-<div align="center">
-  <a href="https://github.com/salmaakhalifa199" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/GitHub-C9184A?style=for-the-badge&logo=github&logoColor=FFCCD5"/>
-  </a>
-  <a href="https://linkedin.com/in/salma-sherif-906240319" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-6D2B3D?style=for-the-badge&logo=linkedin&logoColor=FFE5EC"/>
-  </a>
-  <a href="mailto:salmakhalifa06991@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Email-FF758F?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </div>
 <br/>
+[![GitHub](https://img.shields.io/badge/GitHub-C9184A?style=for-the-badge&logo=github&logoColor=FFCCD5)](https://github.com/salmaakhalifa199) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D2B3D?style=for-the-badge&logo=linkedin&logoColor=FFE5EC)](https://linkedin.com/in/salma-sherif-906240319) [![Email](https://img.shields.io/badge/Email-FF758F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmakhalifa06991@gmail.com)
+<br/>
 
-<h2 align="center">✦ About Me ✦</h2>
+<h2 align="center">About Me</h2>
 <p align="center">
   ⚡ NTI Big Data Engineering Scholarship · Graduate <br/>
   🏢 Data Engineering Intern · Corelia <br/>
