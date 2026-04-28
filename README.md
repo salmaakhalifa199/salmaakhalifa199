@@ -15,7 +15,6 @@
   </a>
 </div>
 <br/>
----
 
 <h2 align="center">✦ About Me ✦</h2>
 <p align="center">
@@ -29,8 +28,6 @@
 <div align="center">
   <i>"Every great decision was once just a row in a database — I build the path between them."</i>
 </div>
-
----
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <h4 align="center">💻 Languages</h4>
