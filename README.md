@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9184A,6D2B3D,FF758F&height=220&section=header&text=Salma%20Sherif&fontSize=58&fontColor=FFCCD5&fontAlignY=38&desc=Big%20Data%20Engineer&descAlignY=58&descSize=18&descFontColor=FFE5EC&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9184A,6D2B3D,FF758F&height=220&section=header&text=Salma%20Sherif&fontSize=58&fontColor=FFCCD5&fontAlignY=38&desc=Data%20Engineer&descAlignY=58&descSize=18&descFontColor=FFE5EC&animation=fadeIn"/>
 </div>
 
 <br/>
