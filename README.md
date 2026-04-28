@@ -1,10 +1,8 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9184A,6D2B3D,FF758F&height=220&section=header&text=Salma%20Sherif&fontSize=58&fontColor=FFCCD5&fontAlignY=38&desc=Data%20Engineer&descAlignY=58&descSize=18&descFontColor=FFE5EC&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6D2B3D,C9184A,FF758F&height=160&text=Salma%20Sherif&fontSize=55&fontColor=FFE5EC&fontAlignY=55&desc=Big%20Data%20Engineer%20%E2%80%A2%20ETL%20%E2%80%A2%20Spark%20%E2%80%A2%20Airflow&descAlignY=78&descSize=16&descFontColor=FFCCD5"/>
 </div>
-
 <br/>
-
 <div align="center">
   <a href="https://github.com/salmaakhalifa199">
     <img src="https://img.shields.io/badge/GitHub-C9184A?style=for-the-badge&logo=github&logoColor=FFCCD5"/>
@@ -16,9 +14,7 @@
     <img src="https://img.shields.io/badge/Email-FF758F?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
 <br/>
-
 ---
 
 <h2 align="center">✦ About Me ✦</h2>
@@ -38,16 +34,13 @@
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
-
 <h4 align="center">💻 Languages</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-C9184A?style=for-the-badge&logo=python&logoColor=FFE5EC"/>
   <img src="https://img.shields.io/badge/SQL-6D2B3D?style=for-the-badge&logo=mysql&logoColor=FFE5EC"/>
   <img src="https://img.shields.io/badge/C%23-FF758F?style=for-the-badge&logo=csharp&logoColor=white"/>
 </div>
-
 <br/>
-
 <h4 align="center">⚡ Big Data &amp; Streaming</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Apache%20Spark-C9184A?style=for-the-badge&logo=apache-spark&logoColor=white"/>
@@ -56,9 +49,7 @@
   <img src="https://img.shields.io/badge/Kafka-FF758F?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flink-6D2B3D?style=for-the-badge&logo=apache-flink&logoColor=white"/>
 </div>
-
 <br/>
-
 <h4 align="center">🔄 ETL &amp; Orchestration</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Airflow-6D2B3D?style=for-the-badge&logo=apache-airflow&logoColor=FFE5EC"/>
@@ -67,9 +58,7 @@
   <img src="https://img.shields.io/badge/Sqoop-6D2B3D?style=for-the-badge&logo=apache&logoColor=FFE5EC"/>
   <img src="https://img.shields.io/badge/Flume-FF758F?style=for-the-badge&logo=apache&logoColor=FFE5EC"/>
 </div>
-
 <br/>
-
 <h4 align="center">🗄️ Databases</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-C9184A?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
@@ -77,9 +66,7 @@
   <img src="https://img.shields.io/badge/ClickHouse-FF758F?style=for-the-badge&logo=clickhouse&logoColor=white"/>
   <img src="https://img.shields.io/badge/HBase-6D2B3D?style=for-the-badge&logo=apache&logoColor=FFE5EC"/>
 </div>
-
 <br/>
-
 <h4 align="center">📊 Analytics &amp; Visualization</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Power%20BI-C9184A?style=for-the-badge&logo=power-bi&logoColor=white"/>
@@ -87,9 +74,7 @@
   <img src="https://img.shields.io/badge/Streamlit-FF758F?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-6D2B3D?style=for-the-badge&logo=pandas&logoColor=FFE5EC"/>
 </div>
-
 <br/>
-
 <h4 align="center">☁️ Cloud &amp; DevOps</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-6D2B3D?style=for-the-badge&logo=amazon-aws&logoColor=FFE5EC"/>
