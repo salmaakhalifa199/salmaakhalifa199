@@ -1,6 +1,5 @@
-<!-- NAME ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=48&pause=500&color=E8B86D&center=true&vCenter=true&width=700&lines=Salma+Sherif" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e,2d2d44,E8B86D&height=160&text=Salma%20Sherif&fontSize=55&fontColor=E8B86D&fontAlignY=55&desc=Big%20Data%20Engineer%20%E2%80%A2%20ETL%20%E2%80%A2%20Spark%20%E2%80%A2%20Airflow&descAlignY=78&descSize=16&descFontColor=C49A3C"/>
 </div>
 
 <div align="center">
@@ -22,19 +21,6 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Before the dashboard, there was chaos. <br/>
-  Before the pipeline, there was noise. <br/>
-  Before the insight, there was <strong>me</strong> — and a lot of raw data. <br/>
-</p>
-
-<p align="center">
-  I'm a <strong>Data Engineer</strong> who sees structure where others see mess. <br/>
-  I build the invisible infrastructure that makes data <em>actually</em> useful — <br/>
-  pipelines that don't break at 3AM, models that answer real questions, <br/>
-  and dashboards that make decision-makers say <em>"finally."</em>
-</p>
-
-<p align="center">
   ⚡ NTI Big Data Engineering Graduate <br/>
      Corelia Data Engineering Trainee <br/>
   📍 Egypt · Open to remote & hybrid opportunities <br/>
@@ -43,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <i>"Raw data is just noise. I build the systems that turn it into signal."</i>
+  <i>"Every great decision was once just a row in a database — I build the path between them."</i>
 </div>
 
 ---
@@ -109,63 +95,51 @@
 
 ---
 
-<h2 align="center">📂 Featured Projects</h2>
+<h2 align="center">🏆 Featured Projects</h2>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+🏥 Clinic Data Integration & Analytics Dashboard
+End-to-End Healthcare Data Pipeline
 
-### 🏥 Clinic Data Integration & Analytics Dashboard
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+🔄 Built ETL pipelines integrating clinic data from multiple sources
+🗂️ Designed star-schema data models for analytics-ready datasets
+📊 Delivered interactive Power BI dashboards for clinical KPIs
 
-End-to-end data engineering solution integrating clinic data from multiple sources.
-- Built ETL pipelines for data cleaning and transformation
-- Designed efficient data models for analytics-ready datasets
-- Delivered interactive Power BI dashboards
+Show Image
+Show Image
+Show Image
+Show Image
+🔗 View on GitHub
+</td>
+    <td width="50%" valign="top">
+💰 Gold Price Scraping & Forecasting
+Egyptian Market Real-Time Analytics
 
-🔗 [GitHub](https://github.com/salmaakhalifa199/Clinic-Data-Integration-Analytics-Dashboard.git)
+⏰ Automated daily gold price scraping via Apache Airflow
+📈 Applied ARIMA/SARIMA forecasting on EGP gold market data
+🖥️ Built live Streamlit + Plotly dashboard with real-time KPIs
 
----
+Show Image
+Show Image
+Show Image
+Show Image
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+🧴 Velora – AI Skincare Diagnosis & E-commerce
+Graduation Project · Egyptian Skincare Market
 
-### 💰 Gold Price Scraping & Forecasting
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+🤖 Integrated ML model for skin disease detection from images
+💳 Implemented Stripe payments & Redis guest cart
+🔒 REST APIs with role-based access and SignalR notifications
 
-- Automated gold price scraping via Apache Airflow (Astronomer/Astro CLI)
-- Applied ARIMA/SARIMA forecasting models on live market data
-- Built interactive Streamlit + Plotly dashboard with real-time KPIs
-
----
-
-### 💊 Salary Prediction (Machine Learning)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-- Built regression models to predict employee salaries
-- Performed data preprocessing, feature engineering, and model evaluation
-
-🔗 [GitHub](https://github.com/salmaakhalifa199/Salary_Prediction.git)
-
----
-
-### 🧴 Velora – AI Skincare Diagnosis & E-commerce Platform
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-Graduation project integrating skin-disease ML detection with a full e-commerce backend.
-- Designed REST APIs and integrated ML skin-condition predictions
-- Implemented Stripe payments, Redis guest cart, and role-based access
-
-🔗 [GitHub](https://github.com/salmaakhalifa199/velora.git)
-
----
-
-<h2 align="center">🎓 Education</h2>
-
-<p align="center">
-  📚 <strong>Big Data Engineering Scholarship</strong> – NTI (Completed) <br/>
-  Hands-on training in Big Data tools, ETL pipelines, AWS fundamentals, and analytics <br/><br/>
-  🎓 <strong>B.Sc. in Computer Science</strong> – Helwan University <br/>
-  GPA: 3.5/4 (Excellent with Honors)
-</p>
+Show Image
+Show Image
+Show Image
+Show Image
+🔗 View on GitHub
+</td>
+  </tr>
+</table>
