@@ -140,3 +140,8 @@
     </td>
   </tr>
 </table>
+
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F9F8F6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=6D2B3D&fontAlignY=60"/>
+</p>
